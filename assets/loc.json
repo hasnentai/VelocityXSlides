@@ -1,0 +1,31 @@
+[
+    {
+        "loc_name": "Japan",
+        "loc_id": "1",
+        "subloc": [
+            {
+                "subloc_name": "Tokyo",
+                "subloc_id": "1"
+            },
+            {
+                "subloc_name": "Osaka",
+                "subloc_id": "2"
+            }
+        ]
+    },
+    {
+        "loc_name": "India",
+        "loc_id": "2",
+        "subloc": [
+            {
+                "subloc_name": "HSR",
+                "subloc_id": "3"
+            },
+            {
+                "subloc_name": "Koramangala",
+                "subloc_id": "4"
+            }
+        ]
+        
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Hub",
+        "data": [
+            {
+                "name": "Sarjapur",
+                "id": "13",
+                "restaurant_count": 0,
+                "imageURL": "https://happyhourshubs.s3.ap-south-1.amazonaws.com/1586236219324"
+            },
+            {
+                "name": "Koramangala",
+                "id": "14",
+                "restaurant_count": 0,
+                "imageURL": "https://happyhourshubs.s3.ap-south-1.amazonaws.com/1586236309411"
+            }
+        ]
+    },
+    {
+        "title": "Menu",
+        "data": [
+            {
+                "name": "Italian",
+                "id": "4",
+                "restaurant_count": 0,
+                "imageURL": "https://happyhourshubs.s3.ap-south-1.amazonaws.com/1586236193068"
+            }
+        ]
+    },
+    {
+        "title": "Brand",
+        "data": [
+            {
+                "name": "Starbucks",
+                "id": "3",
+                "restaurant_count": 0,
+                "imageURL": "https://happyhourshubs.s3.ap-south-1.amazonaws.com/1586236494480"
+            }
+        ]
+    },
+    {
+        "title": "Catergories",
+        "data": []
+    },
+    {
+        "title": "Segment",
+        "data": []
+    }
+]
